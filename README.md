@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- I'm Joseph, a data professional with a passion for transforming and modeling complex data. 
+
 <!--
 **jsauerland/jsauerland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
