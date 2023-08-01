@@ -2,6 +2,7 @@
 
 
 
+
 I'm Joseph, a data professional with a passion for transforming and modeling complex data, and collaborating with cross-functional teams to solve real-world business problems. 
 
 <!--
